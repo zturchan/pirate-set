@@ -1,0 +1,20 @@
+###.## Flood
+
+###.## Cycling
+
+###.## Bribe
+
+701.99 Mint
+	701.99a To "Mint N" means put a colorless artifact token named Gold onto the battlefield. It has “Sacrifice this artifact: Add one mana of any color to your mana pool."
+
+702.999. Letter of Marque
+	702.999a Letter of Marque is a triggered ability. “Letter of Marque” on a permanent means "Whenever you cast a creature that shares a color with this card you may pay [cost] and exile this card from your hand backing that creature. When that creature dies return this card to your hand"
+
+	702.999b Cards that are in the exile zone as the result of a Letter of Marque ability “Back” the creature targeted
+by that ability. The phrase “backed creature” refers to the object targeted by the Letter of Marque ability,
+regardless of whether or not that object is still a creature.
+
+	702.999c The card with Letter of Marque continues to back the chosen creature as long as the card with
+Letter of Marque remains exiled and the creature remains on the battlefield. The card continues to back
+that object even if it changes controller or stops being a creature, as long as it remains on the
+battlefield.
